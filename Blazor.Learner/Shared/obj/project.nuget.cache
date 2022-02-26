@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ESw7ZvIYepNCb09BrO6qygNu//Z0v88qWnMYrdDvbM9WedX7j0mMaUSABhPCixEo3D0XgYNYYE19dCNUEAt/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\divya\\Source\\Repos\\Blazor.Learner\\Blazor.Learner\\Shared\\Blazor.Learner.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\divya\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

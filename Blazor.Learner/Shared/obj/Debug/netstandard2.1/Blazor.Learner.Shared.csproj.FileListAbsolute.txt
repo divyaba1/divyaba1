@@ -1,0 +1,10 @@
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.deps.json
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.dll
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\bin\Debug\netstandard2.1\Blazor.Learner.Shared.pdb
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csproj.AssemblyReference.cache
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.AssemblyInfoInputs.cache
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.AssemblyInfo.cs
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.csproj.CoreCompileInputs.cache
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.dll
+C:\Users\divya\Source\Repos\Blazor.Learner\Blazor.Learner\Shared\obj\Debug\netstandard2.1\Blazor.Learner.Shared.pdb
